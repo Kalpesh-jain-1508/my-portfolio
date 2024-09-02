@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const About = () => {
   return (
     <div className="orido_tm_section" id="about">
@@ -12,7 +14,7 @@ const About = () => {
           </div>
           <div className="right">
             <span className="element">
-              <img className="svg" src="img/svg/element.svg" alt="" />
+              <Image className="svg" src="img/svg/element.svg" alt="" />
             </span>
             <div className="orido_tm_main_title">
               <h3>
@@ -21,7 +23,7 @@ const About = () => {
             </div>
             <div className="text">
               <p>
-               Software Engineer with a Bachelor's Degree in Computer Application.
+               Software Engineer with a {`Bachelor's`} Degree in Computer Application.
                Building👷 complex solutions for clients from the USA, Australia, and the United Kingdom.
                New to this platform but not to the tech world
                An open-minded, goal-oriented individual with creative thinking, optimistic attitude, and problem-solving skills.
@@ -31,10 +33,10 @@ const About = () => {
               <div className="orido_tm_boxed_button">
                 <a href="img/cv/kalpesh_jain_resume.pdf" download>
                   Download CV{" "}
-                  <img className="svg" src="img/svg/paper.svg" alt="" />
+                  <Image className="svg" src="img/svg/paper.svg" alt="" />
                 </a>
               </div>
-              <img src="img/kalpesh_signature.png" alt="" />
+              <Image src="img/kalpesh_signature.png" alt="" />
             </div>
           </div>
         </div>
