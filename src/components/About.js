@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const About = () => {
   return (
     <div className="orido_tm_section" id="about">
@@ -14,7 +12,7 @@ const About = () => {
           </div>
           <div className="right">
             <span className="element">
-              <Image className="svg" src="img/svg/element.svg" alt="" />
+              <img className="svg" src="img/svg/element.svg" alt="" />
             </span>
             <div className="orido_tm_main_title">
               <h3>
@@ -33,10 +31,10 @@ const About = () => {
               <div className="orido_tm_boxed_button">
                 <a href="img/cv/kalpesh_jain_resume.pdf" download>
                   Download CV{" "}
-                  <Image className="svg" src="img/svg/paper.svg" alt="" />
+                  <img className="svg" src="img/svg/paper.svg" alt="" />
                 </a>
               </div>
-              <Image src="img/kalpesh_signature.png" alt="" />
+              <img src="img/kalpesh_signature.png" alt="" />
             </div>
           </div>
         </div>
