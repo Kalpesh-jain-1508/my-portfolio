@@ -74,7 +74,7 @@ const ExpertAreas = () => {
                     Hey there, {`I'm`} Kalpesh, a seasoned Fullstack developer with more than four years of hands-on experience.
                   </p>
                   <p>
-                    I specialize in a diverse array of services designed to elevate your software solutions. From crafting custom web applications to troubleshooting those pesky bugs, and from developing sleek dashboards and admin panels to providing top-notch eCommerce solutions, {`I've`} got your back.
+                    I specialize in a diverse array of services designed to elevate your software solutions. From crafting custom web applications to troubleshooting those pesky bugs, and from developing sleek dashboards and admin panels to providing top-notch eCommerce solutions, I have got your back.
                   </p>
                  
                 </div>

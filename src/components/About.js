@@ -21,7 +21,7 @@ const About = () => {
             </div>
             <div className="text">
               <p>
-               Software Engineer with a {`Bachelor's`} Degree in Computer Application.
+               Software Engineer with a Bachelor Degree in Computer Application.
                Building👷 complex solutions for clients from the USA, Australia, and the United Kingdom.
                New to this platform but not to the tech world
                An open-minded, goal-oriented individual with creative thinking, optimistic attitude, and problem-solving skills.
