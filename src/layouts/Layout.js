@@ -23,6 +23,7 @@ const Layout = ({ children }) => {
     <Fragment>
       <Head>
         <title>Kalpesh Jain</title>
+        <link rel="icon" href="img/kj_favicon_img.png" type="image/png" sizes="20x20" />
       </Head>
       <PreLoader />
       <ImageView />
